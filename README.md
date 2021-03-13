@@ -11,7 +11,7 @@ Companion code to [How Docker Can Help You Become A More Effective Data Scientis
 
 ### Contributing
 
-cllPull requests, comments, issues, etc. are welcome!  
+Pull requests, comments, issues, etc. are welcome!  
 
 ### Resources
 [This repo](https://github.com/hamelsmu/docker-cpu) contains the Dockerfile and the `run_jupyter.sh` file that accompanies the basic tutorial. 
